@@ -1,0 +1,5 @@
+main: x.Entt.RevCompass.RC
+name: RevCompass
+author: Enttbot
+version: 1.0.1
+api-version: "1.13"
